@@ -1,5 +1,5 @@
 [{
-  "Name": "urlopen",
+  "Name": "urlopen-fork",
   "Description": "A plugin for the micro text editor to add support for opening URLs in text files.",
   "Tags": ["urlopen"],
   "Website": "https://github.com/Wulgaren/micro-urlopen",
